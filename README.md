@@ -29,6 +29,15 @@ The project consists of several key components:
 
 
 ## Installion and Running
+
+### Crawl4Ai
+1. I Used this package for grouping related chunks together
+2. To Install this Package cd into the crawl4ai folder and run
+   ```bash
+   python setup.py build
+   python setup.py install
+   ```
+
 ### Ollama
 1. Install the Local Ollama from [Ollama](https://ollama.com/).
 2. Pull embedding nomic-embed-text
