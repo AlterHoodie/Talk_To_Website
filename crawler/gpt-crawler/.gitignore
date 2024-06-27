@@ -9,7 +9,6 @@ storage
 .DS_Store
 
 
-!package-lock.json
 
 
 # any output from the crawler
