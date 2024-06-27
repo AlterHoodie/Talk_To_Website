@@ -34,7 +34,7 @@ The project consists of several key components:
 1. I Used this package for grouping related chunks together
 2. To Install this Package cd into the crawl4ai folder and run
  ```bash
-   pip install requirements.txt
+   pip install -r requirements.txt
    python setup.py build
    python setup.py install
    ```
