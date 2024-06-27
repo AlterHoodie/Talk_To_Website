@@ -95,3 +95,13 @@ Since, I dont have access to a good GPU [Iam running the models on an I7 Laptop 
 
 Again Keeping in mind that I dont have a gpu to work with These are the results I Got:
 
+RESULT IMAGE 1:
+![Result 1](./Results/result1.png)
+
+SOURCE FOR IMAGE 1:
+
+![Source 1](./Results/image.png)
+
+RESULT IMAGE 2:
+
+![Result 1](./Results/result2.png)
